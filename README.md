@@ -24,7 +24,7 @@ I am a dedicated **Electronics** and **Robotics Trainer** passionate about bridg
 | **Robotics & Simulation** | ROS1, ROS2, Gazebo, Fusion 360 |
 | **Hardware & IoT** | Arduino, Raspberry Pi, ESP32, STM32, Sensor Interfacing |
 | **AI & Computer Vision** | TensorFlow, Keras, OpenCV, CNNs, MediaPipe |
-| **DevOps & Tools** | Git, Linux (Ubuntu), Overleaf (LaTeX) |
+
 
 ---
 
