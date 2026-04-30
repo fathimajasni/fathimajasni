@@ -8,7 +8,7 @@
 
 ### 🚀 About Me
 
-I am a dedicated **Electronics Engineer** and **Robotics Specialist** passionate about bridging the gap between hardware and intelligent software. With a background in **M.Sc. Electronics**, I focus on developing scalable Embedded Systems and AI-driven automation.
+I am a dedicated **Electronics** and **Robotics Trainer** passionate about bridging the gap between hardware and intelligent software. With a background in **M.Sc. Electronics**, I focus on developing scalable Embedded Systems and AI-driven automation.
 
 - 🔭 **Currently:** Engineering intelligent solutions using **ROS2**, **Computer Vision**, and **Deep Learning**.
 - 🧠 **Expertise:** Designing end-to-end IoT architectures and mentoring the next generation of engineers.
@@ -51,7 +51,7 @@ I'm always open to discussing **Embedded AI**, **Robotics Research**, or **Indus
 
 - 💼 **LinkedIn:** [fathimajasni](https://www.linkedin.com/in/fathimajasni/)
 - 📧 **Email:** [fathimajasnim@gmail.com](mailto:fathimajasnim@gmail.com)
-- 🌐 **Portfolio:** [Visit My Digital Portfolio](#) *(Add your link here)*
+- 🌐 **Portfolio:** https://fathimajasnimp.lovable.app
 
 ---
 
