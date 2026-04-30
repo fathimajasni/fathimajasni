@@ -1,41 +1,61 @@
-<img src="https://komarev.com/ghpvc/?username=fathimajasni&color=blue" />
 <h1 align="center">Hi 👋, I'm Fathima Jasni</h1>
-<h3 align="center">Electronics Engineer | AI & Robotics Enthusiast</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Electronics+Engineer;AI+%26+Robotics+Specialist;Embedded+Systems+Architect&center=true&width=500&height=50&color=33BBFF">
+</p>
 
 ---
 
-### 👩‍💻 About Me
+### 🚀 About Me
 
-* 🎓 Postgraduate in Electronics
-* 🤖 Interested in AI, Robotics & Embedded Systems
-* 🌱 Learning Deep Learning & ROS
+I am a dedicated **Electronics Engineer** and **Robotics Specialist** passionate about bridging the gap between hardware and intelligent software. With a background in **M.Sc. Electronics**, I focus on developing scalable Embedded Systems and AI-driven automation.
 
----
-
-### 🛠️ Skills
-
-* Python, C++, MicroPython
-* Arduino, Raspberry Pi
-* MATLAB, Fusion 360, ROS1, ROS2
+- 🔭 **Currently:** Engineering intelligent solutions using **ROS2**, **Computer Vision**, and **Deep Learning**.
+- 🧠 **Expertise:** Designing end-to-end IoT architectures and mentoring the next generation of engineers.
+- ⚡ **Goal:** Integrating Generative AI with Robotics to create more intuitive autonomous systems.
 
 ---
 
-### 🚀 Projects
+### 🛠️ Technical Ecosystem
 
-* Food Allergy Detection
-* Food Classification System
-* Robotics Projects
-
----
-
-### 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=fathimajasni\&show_icons=true)
-
-![Streak](https://streak-stats.demolab.com/?user=fathimajasni)
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | Python, C++, Embedded C, MATLAB |
+| **Robotics & Simulation** | ROS1, ROS2, Gazebo, Fusion 360 |
+| **Hardware & IoT** | Arduino, Raspberry Pi, ESP32, STM32, Sensor Interfacing |
+| **AI & Computer Vision** | TensorFlow, Keras, OpenCV, CNNs, MediaPipe |
+| **DevOps & Tools** | Git, Linux (Ubuntu), Overleaf (LaTeX) |
 
 ---
 
-### 📫 Contact
+### 📂 Featured Technical Work
 
-* Email: [fathimajasnim@gmail.com](mailto:fathimajasnim@gmail.com)
+*   **Intelligent Food Analytics:** Developed a Deep Learning system for real-time food classification and nutritional analysis using TensorFlow and Gemini AI.
+*   **Autonomous Navigation:** Implementing node-based communication and SLAM protocols within ROS environments.
+*   **Gesture-Controlled Robotics:** Engineered HMI (Human-Machine Interface) systems for intuitive robot manipulation via computer vision.
+
+---
+
+### 📊 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fathimajasni&show_icons=true&theme=radical&rank_icon=github" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fathimajasni&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🤝 Connect & Collaborate
+
+I'm always open to discussing **Embedded AI**, **Robotics Research**, or **Industrial IoT** projects.
+
+- 💼 **LinkedIn:** [fathimajasni](https://www.linkedin.com/in/fathimajasni/)
+- 📧 **Email:** [fathimajasnim@gmail.com](mailto:fathimajasnim@gmail.com)
+- 🌐 **Portfolio:** [Visit My Digital Portfolio](#) *(Add your link here)*
+
+---
+
+<p align="center">
+  <i>"Turning complex circuits into intelligent solutions."</i> <br>
+  🚀 <b>Let's build the future together.</b>
+</p>
