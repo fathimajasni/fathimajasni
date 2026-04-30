@@ -1,3 +1,4 @@
+<img src="https://komarev.com/ghpvc/?username=fathimajasni&color=blue" />
 <h1 align="center">Hi 👋, I'm Fathima Jasni</h1>
 <h3 align="center">Electronics Engineer | AI & Robotics Enthusiast</h3>
 
